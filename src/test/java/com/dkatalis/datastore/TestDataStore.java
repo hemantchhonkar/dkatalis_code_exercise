@@ -1,4 +1,4 @@
-package com.kdetails.datastore;
+package com.dkatalis.datastore;
 
 import org.junit.Assert;
 import org.junit.Before;

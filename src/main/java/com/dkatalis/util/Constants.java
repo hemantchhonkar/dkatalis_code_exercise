@@ -1,4 +1,4 @@
-package com.kdetails.util;
+package com.dkatalis.util;
 
 public enum Constants {
 

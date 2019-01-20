@@ -1,12 +1,12 @@
-package com.kdetails.pathfinder;
+package com.dkatalis.pathfinder;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Map;
 
-import com.kdetails.pathfinder.model.Edge;
-import com.kdetails.pathfinder.model.Vertex;
+import com.dkatalis.pathfinder.model.Edge;
+import com.dkatalis.pathfinder.model.Vertex;
 import org.junit.Before;
 import org.junit.Test;
 

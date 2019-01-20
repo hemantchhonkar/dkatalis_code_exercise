@@ -1,6 +1,6 @@
-package com.kdetails.pathfinder;
+package com.dkatalis.pathfinder;
 
-import com.kdetails.pathfinder.model.Edge;
+import com.dkatalis.pathfinder.model.Edge;
 
 import java.util.ArrayList;
 import java.util.List;

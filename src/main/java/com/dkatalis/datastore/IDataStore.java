@@ -1,4 +1,4 @@
-package com.kdetails.datastore;
+package com.dkatalis.datastore;
 
 import java.util.*;
 

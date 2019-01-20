@@ -1,4 +1,4 @@
-package com.kdetails.pathfinder.model;
+package com.dkatalis.pathfinder.model;
 
 public class Edge  {
     private final String id;

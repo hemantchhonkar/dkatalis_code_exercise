@@ -1,4 +1,4 @@
-package com.kdetails.pathfinder.model;
+package com.dkatalis.pathfinder.model;
 
 public class Vertex {
     final private String id;

@@ -1,6 +1,6 @@
-package com.kdetails.datastore;
+package com.dkatalis.datastore;
 
-import com.kdetails.util.Constants;
+import com.dkatalis.util.Constants;
 
 import java.util.Arrays;
 import java.util.Map;
