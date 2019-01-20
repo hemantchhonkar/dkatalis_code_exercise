@@ -1,4 +1,4 @@
-# kdetails_code_exercise
+# DKatalis code exercise
 
 ## Contains two exercises 
 - Data store (Array of maps to string and vice versa)
